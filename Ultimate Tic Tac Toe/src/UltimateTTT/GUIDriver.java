@@ -16,7 +16,7 @@ import javafx.stage.Stage;
  * The game is played inside the smaller TicTacToe boards, and winning them will claim that board
  * To prevent ties, rules are implemented to shift the opposing player depending on moves played.
  * 
- * @author 334808300
+ * @author Group from ICS4U
  *
  */
 public class GUIDriver extends Application {
